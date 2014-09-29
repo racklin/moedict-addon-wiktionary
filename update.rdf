@@ -3,7 +3,7 @@
          xmlns:NC="http://home.netscape.com/NC-rdf#"
          xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <RDF:Description RDF:about="rdf:#$SakTF3"
-                   em:version="0.0.2">
+                   em:version="0.0.1">
     <em:targetApplication RDF:resource="rdf:#$VakTF3"/>
   </RDF:Description>
   <RDF:Description RDF:about="urn:mozilla:extension:moedict-addon-wiktionary@moedict.tw"
@@ -14,8 +14,8 @@
                    em:id="toolkit@mozilla.org"
                    em:minVersion="1.9a1"
                    em:maxVersion="32.*"
-                   em:updateLink="https://xulapp.s3.amazonaws.com/moedict-desktop/addons/moedict-addon-wiktionary@moedict.tw/moedict-wiktionary-0.0.2.xpi"
-                   em:updateHash="sha1:5a0507e9bb83cb83fda4d7c9318c8b11726096b3" />
+                   em:updateLink="https://xulapp.s3.amazonaws.com/moedict-desktop/addons/moedict-addon-wiktionary@moedict.tw/moedict-wiktionary-0.0.1.xpi"
+                   em:updateHash="sha1:b98f916c6e9ea14287cf11c043bf33cd72b78396" />
   <RDF:Seq RDF:about="rdf:#$RakTF3">
     <RDF:li RDF:resource="rdf:#$SakTF3"/>
   </RDF:Seq>
