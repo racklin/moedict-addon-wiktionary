@@ -5,7 +5,7 @@
     <Description about="urn:mozilla:install-manifest">
         <em:id>moedict-addon-wiktionary@moedict.tw</em:id>
         <em:name>Wiktionary for Moedict Desktop </em:name>
-        <em:version>0.0.1</em:version>
+        <em:version>0.0.2</em:version>
         <em:description>Wiktionary for Moedict Desktop</em:description>
         <em:creator>Rack Lin(racklin@gmail.com)</em:creator>
         <em:homepageURL>https://github.com/racklin/</em:homepageURL>
