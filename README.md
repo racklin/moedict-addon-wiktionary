@@ -5,7 +5,7 @@
 
 萌典桌面版
 -----------------------------
-請連結至官方網站 ![Moedict Desktop](https://racklin.github.io/moedict-desktop/)
+請連結至官方網站 [Moedict Desktop](https://racklin.github.io/moedict-desktop/)
 
 License
 -----------------------------
